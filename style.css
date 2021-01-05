@@ -82,6 +82,7 @@ body{
 .div-3 p{
     font-size: 16px;
     color:gray;
+    margin-bottom: 25px;
 }
 .div-3 a{
     text-decoration: none;
@@ -132,8 +133,9 @@ body{
 
 }
 .part p{
-    font-size: 20px;
+    font-size: 18px;
     color:gray;
+    text-align:justify;
 }
 .color-2{
     color:orange;
@@ -180,4 +182,15 @@ body{
 .div-4 h1{
     font-size:30px;
     margin-top:5px;
+}
+.div-4 ul{
+    list-style-type:none;
+}
+.div-4 ul li{
+    display:inline;
+}
+.div-4 ul li img{
+    width:50px;
+    height:50px;
+    margin-right:2%;
 }
