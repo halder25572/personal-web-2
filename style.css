@@ -110,7 +110,7 @@ body{
 .main-part{
     overflow: hidden;
     margin-top:5%;
-    margin-left:15%;
+    margin-left:5%;
     padding-left:2%;
 }
 .part{
@@ -120,8 +120,8 @@ body{
     padding:20px;
     float:left;
     background-color: #FFFFFF;
-    border-radius:10px;
-    box-shadow: 10px 10px 36px grey;
+    border-radius:20px;
+    box-shadow: 10px 10px 13px gainsboro;
     margin-bottom:140px;
 }
 .part img{
@@ -152,7 +152,6 @@ body{
     width: 550px;
     border-radius: 10px;
     margin: 0 auto;
-    
 }
 .chat h2{
     margin-left: 5%;
